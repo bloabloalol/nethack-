@@ -1,0 +1,4 @@
+bindkey -k ku stuff "k"
+bindkey -k kd stuff "j"
+bindkey -k kl stuff "h"
+bindkey -k kr stuff "l"

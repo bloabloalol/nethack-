@@ -1,0 +1,10 @@
+OPTIONS=!tutorial
+OPTIONS=autodig
+OPTIONS=autopickup
+OPTIONS=pickup_types:$
+OPTIONS=autoquiver
+OPTIONS=!color
+OPTIONS=hilite_pile:1
+OPTIONS=hitpointbar:1
+OPTIONS=showexp
+OPTIONS=time
