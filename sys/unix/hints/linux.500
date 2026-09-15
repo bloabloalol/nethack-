@@ -613,3 +613,5 @@ endif  # WANT_LIBNH
 #-INCLUDE cross-post.500
 #
 
+PREFLAGS=-g
+PREFLAGS=-g
