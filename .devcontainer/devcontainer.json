@@ -1,0 +1,11 @@
+{
+  "name": "NetHack Codespace",
+  "postCreateCommand": "bash .devcontainer/setup-codespace.sh",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}
