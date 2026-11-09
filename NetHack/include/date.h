@@ -2,8 +2,8 @@
 /* It is no longer used in the NetHack build. */
 
 #if !defined(CROSSCOMPILE) || !defined(CROSSCOMPILE_TARGET)
-#define BUILD_DATE "Sun Sep 13 17:06:56 2026"
-#define BUILD_TIME (1789319216UL)
+#define BUILD_DATE "Fri Oct  2 13:45:03 2026"
+#define BUILD_TIME (1790948703UL)
 
 #define VERSION_NUMBER 0x05000000UL
 #define VERSION_FEATURES 0x00060040UL
@@ -12,8 +12,8 @@
 
 #define VERSION_STRING "5.0.0-0"
 #define VERSION_ID \
- "Unix NetHack Version 5.0.0-0 post-release - last build Sun Sep 13 17:06:56 2026."
+ "Unix NetHack Version 5.0.0-0 post-release - last build Fri Oct  2 13:45:03 2026."
 #define COPYRIGHT_BANNER_C \
- "         Version 5.0.0-0 Unix post-release, built Sun Sep 13 17:06:56 2026."
+ "         Version 5.0.0-0 Unix post-release, built Fri Oct  2 13:45:03 2026."
 #endif /* !CROSSCOMPILE || !CROSSCOMPILE_TARGET */
 

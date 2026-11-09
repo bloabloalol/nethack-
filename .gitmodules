@@ -1,0 +1,3 @@
+[submodule "SLASHEM"]
+	path = SLASHEM
+	url = https://github.com/SLASHEM-Extended/SLASHEM-Extended.git
