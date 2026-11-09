@@ -4146,7 +4146,7 @@
 
        Example:
 
-            WIZKIT=~/wizkit.txt
+            WIZKIT=/workspaces/nethack-/NetHack/wizkit.txt
 
 
 

@@ -525,7 +525,7 @@
 # Wizard-mode extra items, in a text file containing item names,
 # one per line, up to a maximum of 128 lines. Each line is processed
 # by the function that handles wishing.
-#WIZKIT=~/wizkit.txt
+WIZKIT=/workspaces/nethack-/NetHack/wizkit.txt
 
 
 # User sounds
